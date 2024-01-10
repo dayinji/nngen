@@ -1,5 +1,12 @@
 # nngen
 
+## START
+```
+conda install numpy requests pillow matplotlib tqdm -c conda-forge
+// GPU cuda 12.1
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+```
+
 ## Deep Generative Models
 
 - [VAE](https://arxiv.org/abs/1312.6114) [[code](models/vae.ipynb)]
