@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+torch/thorough-pytorch/data
+models/diffusion_models/data
