@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 torch/thorough-pytorch/data
+torch/thorough-pytorch/model
 models/diffusion_models/data
